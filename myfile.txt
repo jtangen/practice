@@ -1,2 +1,3 @@
 Hello, Terminal
 This is another line.
+This is the third line
